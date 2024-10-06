@@ -1,5 +1,5 @@
 ### Hi, I'm Gunjit👋
-👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech</br>
+👩🏻‍💻 Tech Enthusiast sharing about my journey and learnings in tech</br>
 🌷 #learninginpublic in my digital garden</br>
 💭 Currently learning Data Structures, React, ThreeJS</br> 
 
